@@ -8,7 +8,6 @@ Usage
 =====
 
 usage: mcc.py [-h] [-s SERVER] [-k KEY]
-mcc.py: error: Must inform server address or advertise secret key
 
 
 TODO
